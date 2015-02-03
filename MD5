@@ -1,4 +1,4 @@
-d97a3a13d750ddec07bfc393628f1f32 *DESCRIPTION
+ec49b0b5041ce9414e214921e0297eb8 *DESCRIPTION
 02b6229b51f2fdbfb72a68bdebc78c86 *NAMESPACE
 580d06403443f7ad8d3e2de60532dfae *R/RcppExports.R
 d6449ce167ecaf1566b9a62f02f1a4e2 *R/aaa.r
@@ -20,5 +20,5 @@ f714dac857d6c4a57d38f5b8e4e9f182 *man/poisDoubleSamp.Rd
 32a149c24163b004d1747eeaa3764c70 *man/profMLECI.Rd
 467d704af9a7fd63061e7f32e66cdecf *man/waldCI.Rd
 c096ecbc8731b897ed9af5052c0aca8c *src/RcppExports.cpp
-191043a279222c488507340862d6e3a2 *src/unNormedMargLogLikeCpp.cpp
-33d661c7ad7171252a6f33e63c68e581 *src/unNormedMargLogLikeMaxLogTermCpp.cpp
+d071eb3558e9f569a7aeb9b73969f323 *src/unNormedMargLogLikeCpp.cpp
+9bb8e611980fbd51907314c2fecf169b *src/unNormedMargLogLikeMaxLogTermCpp.cpp
