@@ -1,0 +1,19 @@
+citHeader("To cite poisDoubleSamp in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Confidence Intervals for the Ratio of Two Poisson Rates Under One-Way Differential Misclassification Using Double Sampling",
+  author   = c(
+    person(given = "David", family = "Kahle", role = c("aut","cre"), email = "david@kahle.io", comment = c(ORCID = "0000-0002-9999-1558")),
+    person("Phil", "Young", email = "philip_young@baylor.edu", role = "aut"),
+    person("Brandi", "Greer", role = "aut"),
+    person("Dean", "Young", email = "dean_young@baylor.edu", role = "aut")),
+  journal  = "Computational Statistics \\& Data Analysis",
+  year     = "2016",
+  volume   = "95",
+  pages    = "122-132",
+  textVersion = paste('Kahle, D., P. Young, B. Greer, and D. Young (2016).',
+  '"Confidence Intervals for the Ratio of Two Poisson Rates Under One-Way', 
+  'Differential Misclassification Using Double Sampling."',
+  'Computational Statistics & Data Analysis, 95:122–132.')
+)

@@ -11,7 +11,6 @@
 #' @return a named vector containing the lower and upper bounds of the confidence interval
 #' @export waldCI
 #' @examples
-#' \dontrun{
 #' 
 #' # small example
 #' z11 <- 34; z12 <- 35; N1 <- 10; 
@@ -25,6 +24,7 @@
 #' profMLECI(data, N1, N2, N01, N02)
 #' approxMargMLECI(data, N1, N2, N01, N02)
 #' 
+#' \dontrun{
 #' 
 #' # big example :
 #' z11 <- 477; z12 <- 1025; N1 <- 16186;
